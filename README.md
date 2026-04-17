@@ -1,19 +1,31 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F300&center=true&vCenter=true&width=400&height=50&lines=WELCOME+HACKER;GET+YOUR+FREE+VPS" alt="Typing SVG" />
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa9c3-5248-436f-8700-f65511f52097.gif" alt="Matrix Rain" width="100%" />
+  <!-- Animated Text -->
+  <img src="https://demolab.com" alt="WELCOME TO IDX GOOGLE" />
 </p>
 
-### `> status: initialized`
-### `> connecting to secure server...`
-### `> loading free_vps_access.sh...`
+<p align="center">
+  <!-- Red animation "SUBSCRIBE" text that appears with a delay -->
+  <img src="https://demolab.com" alt="Subscribe" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00F300&center=true&vCenter=true&width=300&height=50&lines=READY+TO+GO" alt="Ready" />
+  <!-- Your channel art, which appears at the end -->
+  <a href="https://youtube.com">
+    <img src="https://googleusercontent.com" width="200" style="border-radius: 50%; border: 3px solid red;" alt="ShadowCraftMC_YT Logo" />
+  </a>
 </p>
 
 ---
-<p align="center">
-  <b>🔥 I know you're ready to come and get your free idx VPS , "by ShadowCraftMC"so we'll go and get it ready 🔥</b>
-</p>
 
+<div align="center">
+
+### 🛡️ SYSTEM STATUS: ACCESS GRANTED
+**[ SERVER READY ]**
+
+</div>
+
+---
+
+### 🔗 Quick Links
+* 📺 **YouTube:** [ShadowCraftMC_YT](https://youtube.com/@shadowcraftmc_yt)
+* 💬 **Discord:** [Join our community](https://discord.gg/JMs7Mzxvy)
