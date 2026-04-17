@@ -1,28 +1,32 @@
-<div align="center">
+# 👋 WELCOME TO THE SHADOWCRAFTMC...
 
-# 🔐 TERMINAL ACCESS: GRANTED
+<p align="center">
+  <img src="https://demolab.com." alt="Typing SVG" />
+</p>
 
-<!-- Հակերային կոդի անիմացիա -->
-<img src="https://giphy.com" width="400">
+---
 
-### 🟢 SYSTEM MESSAGE:
-**WELCOME THANK YOU, I KNOW YOU RE READY TO COME AND GET YOUR FREE VPS, SO WE LL GO AND GET IT READY**
+### 🛡️ STATUS: [ ONLINE ]
+### ⚡ SECURITY: [ BYPASSED ]
 
-<br>
+> **"I know you're ready to come and get your free VPS, so we'll go and get it ready."**
 
-<!-- Կարմիր փայլող Subscribe անիմացիա -->
-<img src="https://giphy.com" width="280">
+---
 
-<br><br>
+## 🛠️ AUTO-PROVISIONING SEQUENCE
+- [x] Scanned available resources
+- [x] Handshaking with remote server
+- [ ] **Waiting for user input...**
 
-<!-- Քո լոգոն՝ կարմիր շրջանակով -->
-<a href="https://youtube.com">
-  <img src="https://ggpht.com" width="150" style="border-radius: 50%; border: 4px solid red;">
-</a>
+### 📥 HOW TO CLAIM YOUR ASSETS
+1. Fork this repository.
+2. Run the `setup.sh` script.
+3. Your VPS credentials will be generated in the logs.
 
-<br>
+---
 
-### 📡 NETWORK STATUS: [ ONLINE ]
-[ 📺 YOUTUBE ](https://youtube.com) | [ 💬 DISCORD ](https://discord.gg)
-
-</div>
+## 💻 SYSTEM TERMINAL
+```bash
+$ sudo apt-get install freedom
+$ chmod +x get_vps.sh
+$ ./get_vps.sh --now
