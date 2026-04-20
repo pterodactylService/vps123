@@ -1,1 +1,0 @@
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&lines=WELCOME+TO+IDX+GOOGLE;CREATE+A+FREE+VPS;MAKE+OWN+HOSTING+BY+ShadowCraftMC_YT;SUBSCRIBE+TO+MY+CHANNEL)
